@@ -106,6 +106,13 @@
             <artifactId>jakarta.enterprise.cdi-api</artifactId>
             <scope>provided</scope>
         </dependency>
+        
+        <dependency>
+	         <groupId>com.sun.xml.ws</groupId>
+	         <artifactId>jaxws-rt</artifactId>
+	         <version>2.2.5</version>
+	         <scope>compile</scope>
+     	 </dependency>
 
         <!-- Bean Validation Implementation 
            Provides portable constraints such as @Email 

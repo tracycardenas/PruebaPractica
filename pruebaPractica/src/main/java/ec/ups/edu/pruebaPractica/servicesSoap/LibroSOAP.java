@@ -1,4 +1,4 @@
-package ec.ups.edu.pruebaPractica.services;
+package ec.ups.edu.pruebaPractica.servicesSoap;
 
 import java.util.List;
 
